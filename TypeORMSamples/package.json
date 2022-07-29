@@ -12,7 +12,10 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "@types/node": "^18.0.4"
+    "@types/node": "^18.0.4",
+    "mysql": "^2.18.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.7"
   },
   "devDependencies": {
     "@azure/functions": "^3.0.0",
